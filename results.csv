@@ -1,0 +1,161 @@
+API,LeaseName,WellNumber,WellStatus,WellType,OperatorCode,OperatorName,FieldName,AreaName,District,CountyName,BaseMeridian,Section,Township,Range,Latitude,Longitude,GISSource,isConfidential,isDirectionallyDrilled,SpudDate,WellSymbol
+0410700180,Lease by W. E. Goble,1,Plugged,DH,08864,W. E. Goble,Any Field,Any Area,Inland,Tulare,MD,28,16S,23E,36.50675583,-119.4764328,hud,N,N,,PluggedDH
+0410700181,Lease by Kings River Oil Pool,1,Plugged,DH,04997,Kings River Oil Pool,Any Field,Any Area,Inland,Tulare,MD,29,16S,23E,36.5051651,-119.5018005,hud,N,N,,PluggedDH
+0410700182,Lease by Kingsburg Exploration Co.,1,Plugged,DH,04998,Kingsburg Exploration Co.,Any Field,Any Area,Inland,Tulare,MD,29,16S,23E,36.50677872,-119.4998474,hud,N,N,,PluggedDH
+0410700196,"Lease by Inland Valley Oil Co., Ltd.",1,Plugged,DH,04224,"Inland Valley Oil Co., Ltd.",Any Field,Any Area,Inland,Tulare,MD,24,17S,24E,36.43228531,-119.3141556,hud,N,N,,PluggedDH
+0410700197,McCarrell,1,Plugged,DH,02521,"Ebonoro Oil Company, Inc.",Any Field,Any Area,Inland,Tulare,MD,03,17S,25E,36.47821426,-119.2519531,hud,N,N,,PluggedDH
+0410700198,Alves,1,Plugged,DH,02521,"Ebonoro Oil Company, Inc.",Any Field,Any Area,Inland,Tulare,MD,15,17S,25E,36.4517746,-119.2567139,hud,N,N,,PluggedDH
+0410700199,Steele Petroleum Visalia,1,Plugged,DH,E0100,E & B Natural Resources Management Corporation,Any Field,Any Area,Inland,Tulare,MD,18,17S,25E,36.44591141,-119.2968674,hud,N,N,,PluggedDH
+0410700213,Wilcox-Hinkel,1,Plugged,DH,04373,"J. F. Wilcox, Operator",Any Field,Any Area,Inland,Tulare,MD,33,19S,26E,36.23325348,-119.1591492,hud,N,N,,PluggedDH
+0410700214,Orton,1,Plugged,DH,04695,"John F. Wilcox, Operator",Any Field,Any Area,Inland,Tulare,MD,34,19S,26E,36.23319244,-119.1415863,hud,N,N,,PluggedDH
+0410700215,Lease by Captain Richard Thew,1,Plugged,DH,01359,Captain Richard Thew,Any Field,Any Area,Inland,Tulare,MD,17,19S,27E,36.27768707,-119.0672989,mip,N,N,,PluggedDH
+0410700216,Lease by The Givan Consolidated Oil Corporation,1,Plugged,DH,08348,The Givan Consolidated Oil Corporation,Any Field,Any Area,Inland,Tulare,MD,35,19S,27E,36.22591019,-119.0274506,hud,N,N,,PluggedDH
+0410700230,Keely,1,Plugged,DH,06195,"Navy Oil Co., Inc.",Any Field,Any Area,Inland,Tulare,MD,24,20S,26E,36.18109512,-119.1166916,hud,N,N,,PluggedDH
+0410700231,Orton,1,Plugged,DH,06195,"Navy Oil Co., Inc.",Any Field,Any Area,Inland,Tulare,MD,24,20S,26E,36.18091583,-119.1140442,hud,N,N,,PluggedDH
+0410700232,Keeley Community,44X-24,Plugged,DH,S3100,Shell Western E&P Inc.,Any Field,Any Area,Inland,Tulare,MD,24,20S,26E,36.17451859,-119.1084595,hud,N,N,,PluggedDH
+0410700233,Neal,1,Plugged,DH,00179,Ajax Oil and Development Co.,Any Field,Any Area,Inland,Tulare,MD,32,20S,26E,36.13886261,-119.1748352,hud,N,N,,PluggedDH
+0410700246,Parks,1,Plugged,DH,T4200,Trico Industries Inc,Any Field,Any Area,Inland,Tulare,MD,35,21S,25E,36.06222916,-119.2331848,hud,N,N,,PluggedDH
+0410700247,Valley,2,Plugged,DH,T4200,Trico Industries Inc,Any Field,Any Area,Inland,Tulare,MD,35,21S,25E,36.06502533,-119.2431107,hud,N,N,,PluggedDH
+0410700248,Valley,1,Plugged,DH,T4200,Trico Industries Inc,Any Field,Any Area,Inland,Tulare,MD,36,21S,25E,36.06093216,-119.2312164,hud,N,N,,PluggedDH
+0410700249,Shaw,1,Plugged,DH,02677,Era Gill & Assoc.,Any Field,Any Area,Inland,Tulare,MD,04,21S,26E,36.12552261,-119.1690979,hud,N,N,,PluggedDH
+0410700250,Lease by A. Otis Birch,1,Plugged,DH,00110,A. Otis Birch,Any Field,Any Area,Inland,Tulare,MD,13,21S,26E,36.10586166,-119.1094971,hud,N,N,,PluggedDH
+0410700263,Lease by W. D. McKoy,1,Plugged,DH,08856,W. D. McKoy,Any Field,Any Area,Inland,Tulare,MD,35,21S,27E,36.06190872,-119.0348587,hud,N,N,,PluggedDH
+0410720033,Hanni,1,Plugged,DH,E0600,Ebert & Brandt,Any Field,Any Area,Inland,Tulare,MD,07,21S,26E,36.11713791,-119.206871,hud,N,N,,PluggedDH
+0410720034,BJD,1-7,Plugged,DH,E0600,Ebert & Brandt,Any Field,Any Area,Inland,Tulare,MD,07,21S,26E,36.1193428,-119.1991043,hud,N,N,,PluggedDH
+0410720103,Bettencourt,55-35,Canceled,OG,T0300,Tannehill Oil Company,Any Field,Any Area,Inland,Tulare,MD,35,20S,25E,36.14453506,-119.231575,mip,N,N,,CanceledOG
+0410720104,Brazil,27X,Plugged,DH,T0300,Tannehill Oil Company,Any Field,Any Area,Inland,Tulare,MD,09,20S,25E,36.19948578,-119.2730942,hud,N,N,,PluggedDH
+0410720105,Warren,17,Plugged,DH,T0300,Tannehill Oil Company,Any Field,Any Area,Inland,Tulare,MD,29,19S,25E,36.24265289,-119.2946167,hud,N,N,,PluggedDH
+0410720143,Doe,1,Plugged,DH,03270,GEH,Any Field,Any Area,Inland,Tulare,MD,08,18S,24E,36.37248611,-119.3960419,hud,N,N,,PluggedDH
+0410720184,Bennetts,1-17,Plugged,DH,J1950,Jordan Oil & Gas Company,Any Field,Any Area,Inland,Tulare,MD,17,19S,25E,36.27791214,-119.2956924,hud,N,N,01/09/1982,PluggedDH
+0410720185,County of Tulare,1-6,Plugged,DH,J1950,Jordan Oil & Gas Company,Any Field,Any Area,Inland,Tulare,MD,06,21S,26E,36.13751221,-119.2088089,hud,N,N,,PluggedDH
+0410720186,Billingsley,1-17,Plugged,DH,J1950,Jordan Oil & Gas Company,Any Field,Any Area,Inland,Tulare,MD,17,21S,26E,36.10137558,-119.1871643,hud,N,N,,PluggedDH
+0403100589,M.R.M.-Phillips,1,Plugged,DH,05187,Lake Oil Co.,Any Field,Any Area,Inland,Kings,MD,35,18S,22E,36.32387543,-119.5490723,hud,N,N,10/15/1950,PluggedDH
+0403100602,Rockhold,1,Plugged,DH,03875,Harry S. Sankey,Any Field,Any Area,Inland,Kings,MD,06,19S,23E,36.38737106,-119.5232086,hud,N,N,05/07/1952,PluggedDH
+0403120271,Champlin,1-10,Plugged,DH,N2150,Northern Michigan Exploration Company,Any Field,Any Area,Inland,Kings,MD,10,19S,22E,36.29668045,-119.5663528,hud,N,N,02/02/1984,PluggedDH
+0403100207,Hanford,1,Plugged,OG,00190,Albercalif Petroleums Ltd.,Hanford (ABD),Any Area,Inland,Kings,MD,36,18S,22E,36.31629181,-119.5412445,hud,N,N,06/28/1950,PluggedOG
+0403100209,Drummond,1,Plugged,DH,C7800,Conoco Inc.,Hanford (ABD),Any Area,Inland,Kings,MD,36,18S,22E,36.31515884,-119.5455704,hud,N,N,09/10/1942,PluggedDH
+0403100210,Drummond,2,Plugged,DH,C7800,Conoco Inc.,Hanford (ABD),Any Area,Inland,Kings,MD,36,18S,22E,36.32078552,-119.539032,hud,N,N,01/18/1943,PluggedDH
+0410720280,Sequoia,1,Plugged,DH,A4050,"Patriot Resources, LLC",Any Field,Any Area,Inland,Tulare,MD,15,18S,24E,36.35848618,-119.3672256,Well Summary,N,N,11/21/2014,PluggedDH
+0410700188,Community,26-2,Plugged,DH,A1700,Amerada Hess Corp.,Any Field,Any Area,Inland,Tulare,MD,26,16S,24E,36.50598145,-119.3318329,hud,N,N,,PluggedDH
+0410700189,Community,28-1,Plugged,DH,A1700,Amerada Hess Corp.,Any Field,Any Area,Inland,Tulare,MD,28,16S,24E,36.51160431,-119.3700104,hud,N,N,,PluggedDH
+0410700190,Community,29-2,Plugged,DH,A1700,Amerada Hess Corp.,Any Field,Any Area,Inland,Tulare,MD,29,16S,24E,36.50634766,-119.3854828,hud,N,N,,PluggedDH
+0410700191,Hovsepian,1,Plugged,DH,00108,A. O. Margoles,Any Field,Any Area,Inland,Tulare,MD,33,16S,24E,36.49830627,-119.3606033,hud,N,N,,PluggedDH
+0410700205,Doe,1,Plugged,DH,08253,"Ted Sterling, Operator",Any Field,Any Area,Inland,Tulare,MD,09,18S,24E,36.37334442,-119.3738785,hud,N,N,,PluggedDH
+0410700206,Carter-McCallister,1,Plugged,DH,05952,Miles Andrews,Any Field,Any Area,Inland,Tulare,MD,16,18S,25E,36.35673523,-119.2705383,hud,N,N,,PluggedDH
+0410700207,A.K.,2,Plugged,DH,04988,King Development Company,Any Field,Any Area,Inland,Tulare,MD,16,18S,25E,36.35850906,-119.2766342,hud,N,N,,PluggedDH
+0410700208,Carter-Chedester,1,Plugged,DH,08903,W. J. Carter,Any Field,Any Area,Inland,Tulare,MD,21,18S,25E,36.35366821,-119.261673,hud,N,N,,PluggedDH
+0410700221,Presley,1,Plugged,DH,06693,Paul E. Olson,Any Field,Any Area,Inland,Tulare,MD,33,20S,25E,36.15139008,-119.2705383,hud,N,N,,PluggedDH
+0410700222,Presley,2,Plugged,DH,06693,Paul E. Olson,Any Field,Any Area,Inland,Tulare,MD,33,20S,25E,36.14796829,-119.2701721,hud,N,N,,PluggedDH
+0410700223,A.K.,1,Plugged,DH,04988,King Development Company,Any Field,Any Area,Inland,Tulare,MD,12,20S,26E,36.19635773,-119.1150894,hud,N,N,,PluggedDH
+0410700224,Lease by Lindsay Community Dev. Assoc.,1,Plugged,DH,05345,Lindsay Community Dev. Assoc.,Any Field,Any Area,Inland,Tulare,MD,15,20S,26E,36.18456268,-119.1383896,hud,N,N,,PluggedDH
+0410700238,Swift,1,Plugged,DH,C5640,Chevron U.S.A. Inc.,Any Field,Any Area,Inland,Tulare,MD,16,21S,23E,36.10803604,-119.4994125,hud,N,N,,PluggedDH
+0410700239,Tulare Dome,1,Plugged,DH,08592,Tulare Dome Oil Co.,Any Field,Any Area,Inland,Tulare,MD,17,21S,23E,36.09711075,-119.517662,hud,N,N,,PluggedDH
+0410700240,Palmer,1,Plugged,DH,03304,Geo. K. Palmer,Any Field,Any Area,Inland,Tulare,MD,19,21S,23E,36.08862686,-119.5227051,hud,N,N,,PluggedDH
+0410700241,Green,48-26,Plugged,DH,01166,C. W. Colgrove,Any Field,Any Area,Inland,Tulare,MD,26,21S,23E,36.06624985,-119.4575729,hud,N,N,,PluggedDH
+0410700255,Core Hole,84-35,Plugged,CH,C5640,Chevron U.S.A. Inc.,Any Field,Any Area,Inland,Tulare,MD,35,21S,26E,36.05994415,-119.1251984,hud,N,N,,PluggedCH
+0410700256,Lease by Morganton Oil Co.,1,Plugged,DH,06070,Morganton Oil Co.,Any Field,Any Area,Inland,Tulare,MD,01,21S,27E,36.13778305,-119.0166473,hud,N,N,,PluggedDH
+0410700257,Lease by Morganton Oil Co.,2,Plugged,DH,06070,Morganton Oil Co.,Any Field,Any Area,Inland,Tulare,MD,01,21S,27E,36.13709641,-119.0158081,hud,N,N,,PluggedDH
+0410700258,Lease by G. E. McKinney & Wayne H. Myers,1,Plugged,DH,03197,G. E. McKinney & Wayne H. Myers,Any Field,Any Area,Inland,Tulare,MD,10,21S,27E,36.11216736,-119.0488052,hud,N,N,,PluggedDH
+0410700274,Reed,22-6,Plugged,DH,U0200,Union Oil Company of California,Any Field,Any Area,Inland,Tulare,MD,06,22S,26E,36.04833603,-119.2109604,hud,N,N,,PluggedDH
+0410700288,Sharman,1,Plugged,DH,02257,Dr. E. Lowell Schaefer,Any Field,Any Area,Inland,Tulare,MD,06,22S,27E,36.0508194,-119.1026688,hud,N,N,,PluggedDH
+0410720023,Keeley,1,Plugged,DH,02488,Earl Kelly,Any Field,Any Area,Inland,Tulare,MD,26,20S,26E,36.15981674,-119.1302948,hud,N,N,,PluggedDH
+0410720074,Soults,1,Plugged,DH,F2000,Freeport Oil Company,Any Field,Any Area,Inland,Tulare,MD,08,20S,24E,36.20103073,-119.3903046,hud,N,N,,PluggedDH
+0410720117,Cardosa,16X,Plugged,DH,T0300,Tannehill Oil Company,Any Field,Any Area,Inland,Tulare,MD,31,19S,25E,36.22867966,-119.3112946,hud,N,N,,PluggedDH
+0410720098,Shell-Shannon-Gibraltar,15-1,Plugged,DH,S3100,Shell Western E&P Inc.,Any Field,Any Area,Inland,Tulare,MD,15,18S,24E,36.35725403,-119.3507004,hud,N,N,,PluggedDH
+0410720159,France,1,Plugged,DH,S1250,Saratoga Company,Any Field,Any Area,Inland,Tulare,MD,03,22S,27E,36.04807663,-119.0510254,hud,N,N,,PluggedDH
+0410720199,Gist Farms Inc.,71-28,Plugged,DH,T1300,"Terra Resources, Inc.",Any Field,Any Area,Inland,Tulare,MD,28,19S,24E,36.25387955,-119.3698273,hud,N,N,,PluggedDH
+0410720201,Derby-Union,32-1X,Plugged,DH,D1855,Derby Oil of Calif. Inc.,Any Field,Any Area,Inland,Tulare,MD,01,20S,25E,36.22322083,-119.2208023,hud,N,N,,PluggedDH
+0403100614,Corcoran,24-1,Plugged,DH,07498,"Russell, Willis & Vaughan, Ltd.",Any Field,Any Area,Inland,Kings,MD,24,20S,22E,36.16822052,-119.5369339,hud,N,N,08/20/1949,PluggedDH
+0403100601,Bettencourt,1,Plugged,DH,07500,Rusty Walters Drilling Co.,Any Field,Any Area,Inland,Kings,MD,04,19S,22E,36.30494308,-119.5932465,hud,N,N,10/12/1955,PluggedDH
+0403100612,Corcoran Irrigation,25-1,Plugged,DH,C5640,Chevron U.S.A. Inc.,Any Field,Any Area,Inland,Kings,MD,25,20S,22E,36.16519928,-119.5355759,hud,N,N,05/19/1951,PluggedDH
+0403100613,Corcoran,1,Plugged,DH,03815,Harp & Brown,Any Field,Any Area,Inland,Kings,MD,21,20S,22E,36.17471313,-119.5992279,hud,N,N,03/04/1946,PluggedDH
+0403100598,Drummond-Union,1-1,Plugged,DH,03842,"Harry C. Long, Oper., Inc.",Any Field,Any Area,Inland,Kings,MD,01,19S,22E,36.30974197,-119.5392303,hud,N,N,06/09/1956,PluggedDH
+0401906189,White,1,Plugged,DH,M6925,"Mobil Oil Exploration & Production North America, Inc.",Any Field,Any Area,Inland,Fresno,MD,29,16S,22E,36.51150894,-119.6014862,hud,N,N,12/25/1942,PluggedDH
+0403100591,Martin,22-12,Plugged,DH,S3100,Shell Western E&P Inc.,Any Field,Any Area,Inland,Kings,MD,12,18S,22E,36.38409042,-119.5440826,hud,N,N,05/19/1960,PluggedDH
+0410720277,Hani,1-31,Plugged,DH,S4825,"Spectra Exploration, Inc.",Any Field,Any Area,Inland,Tulare,MD,31,20S,26E,36.1422348,-119.1966019,Well Summary,N,N,07/02/2013,PluggedDH
+0410700176,Agoil,1,Plugged,DH,00174,Agoil Co.,Any Field,Any Area,Inland,Tulare,MD,28,16S,23E,36.51137161,-119.4708328,hud,N,N,,PluggedDH
+0410700178,Williams,1,Plugged,DH,04752,John W. Alford,Any Field,Any Area,Inland,Tulare,MD,28,16S,23E,36.51674652,-119.4708023,hud,N,N,,PluggedDH
+0410700185,Harris,1,Plugged,DH,08517,Transcal Drilling Co.,Any Field,Any Area,Inland,Tulare,MD,34,16S,23E,36.49007416,-119.4556274,hud,N,N,,PluggedDH
+0410700187,Community,21-1,Plugged,DH,A1700,Amerada Hess Corp.,Any Field,Any Area,Inland,Tulare,MD,21,16S,24E,36.52416611,-119.3631821,hud,N,N,,PluggedDH
+0410700192,Pratt,1,Plugged,DH,M6925,"Mobil Oil Exploration & Production North America, Inc.",Any Field,Any Area,Inland,Tulare,MD,15,17S,23E,36.45094681,-119.4645843,hud,N,N,,PluggedDH
+0410700194,Chrisman,1,Plugged,DH,05234,Lawrence P. Reischman,Any Field,Any Area,Inland,Tulare,MD,21,17S,24E,36.44277191,-119.3838959,hud,N,N,,PluggedDH
+0410700201,United,1,Plugged,DH,08657,United Exploration Co. of Calif.,Any Field,Any Area,Inland,Tulare,MD,12,18S,23E,36.377285,-119.4219284,hud,N,N,,PluggedDH
+0410700203,Huntley,1,Plugged,DH,M6925,"Mobil Oil Exploration & Production North America, Inc.",Any Field,Any Area,Inland,Tulare,MD,07,18S,24E,36.37900543,-119.4182968,hud,N,N,,PluggedDH
+0410700210,Overland-Stone,1,Plugged,DH,05551,M. H. Stone,Any Field,Any Area,Inland,Tulare,MD,10,19S,23E,36.28860474,-119.4734192,hud,N,N,,PluggedDH
+0410700212,Eureka-Wright-Hart,1,Plugged,DH,02779,Eureka Refining Corp.,Any Field,Any Area,Inland,Tulare,MD,14,19S,25E,36.27743149,-119.2275543,hud,N,N,,PluggedDH
+0410700217,Lease by Tulare Oil,1,Plugged,DH,08593,Tulare Oil,Any Field,Any Area,Inland,Tulare,MD,01,20S,24E,36.22397995,-119.3213959,hud,N,N,,PluggedDH
+0410700219,Gieck & Stephens,1,Plugged,DH,00932,Brittain-Terminal Oil Corp.,Any Field,Any Area,Inland,Tulare,MD,29,20S,25E,36.15528488,-119.2802429,hud,N,N,,PluggedDH
+0410700226,Keeley,1,Plugged,DH,01501,Charles Beyerbach,Any Field,Any Area,Inland,Tulare,MD,24,20S,26E,36.17400742,-119.1075516,hud,N,N,,PluggedDH
+0410700228,"Lease by Fred Gill & Sons, Inc.",2,Plugged,DH,03111,"Fred Gill & Sons, Inc.",Any Field,Any Area,Inland,Tulare,MD,24,20S,26E,36.1684494,-119.1117172,hud,N,N,,PluggedDH
+0410700235,Lease by Brown & Soults,1,Plugged,DH,00945,Brown & Soults,Any Field,Any Area,Inland,Tulare,MD,32,20S,27E,36.14855957,-119.0783005,hud,N,N,,PluggedDH
+0410700237,Gill,1,Plugged,DH,08021,Spur Oil Company,Any Field,Any Area,Inland,Tulare,MD,32,20S,28E,36.14707565,-118.966568,mip,N,N,,PluggedDH
+0410700242,Green Cattle,1,Plugged,DH,C5640,Chevron U.S.A. Inc.,Any Field,Any Area,Inland,Tulare,MD,33,21S,23E,36.05886841,-119.4918289,hud,N,N,,PluggedDH
+0410700244,Callison,1,Plugged,DH,T4200,Trico Industries Inc,Any Field,Any Area,Inland,Tulare,MD,27,21S,25E,36.06721878,-119.2512207,hud,N,N,,PluggedDH
+0410700251,Baker,1,Plugged,DH,00110,A. Otis Birch,Any Field,Any Area,Inland,Tulare,MD,13,21S,26E,36.10600281,-119.1114502,hud,N,N,,PluggedDH
+0410700253,Pratt,1,Plugged,DH,06931,Prestidge Oil Company,Any Field,Any Area,Inland,Tulare,MD,27,21S,26E,36.07723236,-119.1548157,hud,N,N,,PluggedDH
+0410700260,Blue Ridge,1,Plugged,DH,06747,Perry Drlg. Co.,Any Field,Any Area,Inland,Tulare,MD,31,21S,27E,36.05199814,-119.0984573,hud,N,N,,PluggedDH
+0410700262,Prestage,1,Plugged,DH,08825,"Von Glahn Oil Co., Inc.",Any Field,Any Area,Inland,Tulare,MD,32,21S,27E,36.05701447,-119.0767593,hud,N,N,,PluggedDH
+0410700287,Sanborn,1,Plugged,DH,05285,Leonard A. Gwynne & Assoc.,Any Field,Any Area,Inland,Tulare,MD,04,22S,27E,36.04608917,-119.0703888,hud,N,N,,PluggedDH
+0410720008,Merritt Estate,1,Plugged,DH,07260,Reynolds & Carver,Any Field,Any Area,Inland,Tulare,MD,20,19S,24E,36.26237106,-119.3898773,hud,N,N,,PluggedDH
+0410720015,Fox,1,Plugged,DH,03735,H. Wayne Hoylman,Any Field,Any Area,Inland,Tulare,MD,25,20S,26E,36.1645546,-119.1102448,hud,N,N,,PluggedDH
+0410720018,Efseaff,1-14,Plugged,DH,C5640,Chevron U.S.A. Inc.,Any Field,Any Area,Inland,Tulare,MD,14,21S,26E,36.09834671,-119.1262512,hud,N,N,,PluggedDH
+0410720042,Fox,2,Plugged,DH,03735,H. Wayne Hoylman,Any Field,Any Area,Inland,Tulare,MD,25,20S,26E,36.16562271,-119.1091995,hud,N,N,,PluggedDH
+0410720046,Fusano,1,Plugged,DH,03735,H. Wayne Hoylman,Any Field,Any Area,Inland,Tulare,MD,25,20S,26E,36.16389847,-119.114006,hud,N,N,,PluggedDH
+0410720128,"Riggin, et al",1,Plugged,DH,H3900,Hershey Oil Corporation,Any Field,Any Area,Inland,Tulare,MD,23,18S,24E,36.35538864,-119.3445816,hud,N,N,,PluggedDH
+0410720161,Hayes,31,Plugged,DH,G0550,"Ganong & Ellison, Operator",Any Field,Any Area,Inland,Tulare,MD,17,18S,24E,36.36995697,-119.3989792,hud,N,N,,PluggedDH
+0410720183,Matteson,1-12,Plugged,DH,J1950,Jordan Oil & Gas Company,Any Field,Any Area,Inland,Tulare,MD,12,18S,24E,36.37483215,-119.3280258,hud,N,N,,PluggedDH
+0403100590,Swanson,1,Plugged,DH,05792,McCulloch Oil & Gas Corp.,Any Field,Any Area,Inland,Kings,MD,06,18S,22E,36.39350128,-119.6306381,hud,N,N,05/23/1959,PluggedDH
+0403120275,REA,1,Plugged,DH,06693,Paul E. Olson,Any Field,Any Area,Inland,Kings,MD,13,17S,22E,36.44672775,-119.5373077,hud,N,N,03/01/1984,PluggedDH
+0403100599,Sarah Hampshire,61-11,Plugged,DH,07288,"Richard S. Rheem, Operator",Any Field,Any Area,Inland,Kings,MD,11,19S,22E,36.2975769,-119.5527802,hud,N,N,01/08/1964,PluggedDH
+0403120113,Kovacs,67-12,Plugged,DH,A3200,The Anschutz Corporation,Any Field,Any Area,Inland,Kings,MD,12,18S,21E,36.37465668,-119.6428986,hud,N,N,07/09/1975,PluggedDH
+0401906188,Gravander,2,Plugged,DH,02396,E. G. Erickson & C.K. Swanson,Any Field,Any Area,Inland,Fresno,MD,22,16S,22E,36.52345276,-119.5621109,hud,N,N,03/29/1940,PluggedDH
+0403100843,Williams Trust,1,Plugged,DH,03233,Galen B. Finch & Assoc.,Any Field,Any Area,Inland,Kings,MD,24,20S,22E,36.16772461,-119.5393295,hud,N,N,01/09/1946,PluggedDH
+0403100592,Bennett-Smith,52,Plugged,DH,T1400,Tesoro Petroleum Corp.,Any Field,Any Area,Inland,Kings,MD,31,18S,23E,36.32539368,-119.5187073,hud,N,N,01/21/1950,PluggedDH
+0403100208,Drummond Union,1,Plugged,DH,A3400,Arcady Oil Company,Hanford (ABD),Any Area,Inland,Kings,MD,36,18S,22E,36.31490707,-119.5412369,hud,N,N,06/18/1951,PluggedDH
+0403100211,Drummond Union,1,Plugged,DH,03507,Goshen Syndicate,Hanford (ABD),Any Area,Inland,Kings,MD,36,18S,22E,36.31689072,-119.5440979,hud,N,N,05/07/1950,PluggedDH
+0403051019,Hani,1-31,Canceled,OG,S4825,"Spectra Exploration, Inc.",Any Field,Any Area,Southern,Kern,MD,31,20S,26E,36.1422348,-119.196022,Notice of Intent to Drill,N,N,,CanceledOG
+0410700177,Agoil,2,Plugged,DH,00174,Agoil Co.,Any Field,Any Area,Inland,Tulare,MD,28,16S,23E,36.51610184,-119.4699707,hud,N,N,,PluggedDH
+0410700179,Toscan,1,Plugged,DH,03020,Frakes Oil Co.,Any Field,Any Area,Inland,Tulare,MD,28,16S,23E,36.50943375,-119.4680557,hud,N,N,,PluggedDH
+0410700186,Community,20-1,Plugged,DH,A1700,Amerada Hess Corp.,Any Field,Any Area,Inland,Tulare,MD,20,16S,24E,36.5175209,-119.3810577,hud,N,N,,PluggedDH
+0410700193,Core Hole,1,Plugged,CH,02006,D. R. Langstaff,Any Field,Any Area,Inland,Tulare,MD,15,17S,24E,36.44617081,-119.3546982,hud,N,N,,PluggedCH
+0410700195,Pritchett,1,Plugged,DH,09306,Winifred Schneider,Any Field,Any Area,Inland,Tulare,MD,01,17S,24E,36.4784317,-119.3254166,hud,N,N,,PluggedDH
+0410700200,Logsdon,1,Plugged,DH,08682,Urich-Lowell Oil Co.,Any Field,Any Area,Inland,Tulare,MD,11,18S,23E,36.37814713,-119.4411545,hud,N,N,,PluggedDH
+0410700202,Bennett,1,Plugged,DH,09317,Wm. C. McDuffie,Any Field,Any Area,Inland,Tulare,MD,15,18S,23E,36.36448288,-119.4624176,hud,N,N,,PluggedDH
+0410700204,McGee,18-8,Plugged,DH,M6925,"Mobil Oil Exploration & Production North America, Inc.",Any Field,Any Area,Inland,Tulare,MD,08,18S,24E,36.37169647,-119.4021759,hud,N,N,,PluggedDH
+0410700209,Hagler,1,Plugged,DH,07575,"Sam B. Herndon, Operator",Any Field,Any Area,Inland,Tulare,MD,02,19S,23E,36.30878448,-119.440506,hud,N,N,,PluggedDH
+0410700211,North Tulare Community 1,1,Plugged,DH,A4550,Arco Western Energy Co.,Any Field,Any Area,Inland,Tulare,MD,33,19S,24E,36.22648621,-119.3686218,hud,N,N,,PluggedDH
+0410700218,Churchill,1,Plugged,DH,A4550,Arco Western Energy Co.,Any Field,Any Area,Inland,Tulare,MD,35,20S,24E,36.15180206,-119.3466797,hud,N,N,,PluggedDH
+0410700220,Sturdevant,1,Plugged,DH,06693,Paul E. Olson,Any Field,Any Area,Inland,Tulare,MD,29,20S,25E,36.15677261,-119.2830048,hud,N,N,,PluggedDH
+0410700225,Lease by Lindsay Community Dev. Assoc.,2,Plugged,DH,05345,Lindsay Community Dev. Assoc.,Any Field,Any Area,Inland,Tulare,MD,23,20S,26E,36.18109894,-119.1186523,hud,N,N,,PluggedDH
+0410700227,"Lease by Fred Gill & Sons, Inc.",1,Plugged,DH,03111,"Fred Gill & Sons, Inc.",Any Field,Any Area,Inland,Tulare,MD,24,20S,26E,36.17560577,-119.1118698,hud,N,N,,PluggedDH
+0410700229,Keely,2,Plugged,DH,03111,"Fred Gill & Sons, Inc.",Any Field,Any Area,Inland,Tulare,MD,24,20S,26E,36.1677742,-119.1117172,hud,N,N,,PluggedDH
+0410700234,Lease by Lindsay Community Dev. Assoc.,3,Plugged,DH,05345,Lindsay Community Dev. Assoc.,Any Field,Any Area,Inland,Tulare,MD,30,20S,27E,36.16662216,-119.0961075,hud,N,N,,PluggedDH
+0410700236,Gold Sands,1,Plugged,DH,03465,Gold Sands Petroleum,Any Field,Any Area,Inland,Tulare,MD,32,20S,27E,36.14151001,-119.0767517,hud,N,N,,PluggedDH
+0410700243,Hewitt,1,Plugged,DH,A4550,Arco Western Energy Co.,Any Field,Any Area,Inland,Tulare,MD,01,21S,25E,36.1297226,-119.2309952,hud,N,N,,PluggedDH
+0410700245,Hoffman,24,Plugged,DH,C5640,Chevron U.S.A. Inc.,Any Field,Any Area,Inland,Tulare,MD,33,21S,25E,36.05978394,-119.2826004,hud,N,N,,PluggedDH
+0410700252,Core Hole,76-21,Plugged,CH,C5640,Chevron U.S.A. Inc.,Any Field,Any Area,Inland,Tulare,MD,21,21S,26E,36.08452988,-119.1643829,hud,N,N,,PluggedCH
+0410700254,Core Hole,54-34,Plugged,CH,C5640,Chevron U.S.A. Inc.,Any Field,Any Area,Inland,Tulare,MD,34,21S,26E,36.05982208,-119.1499939,hud,N,N,,PluggedCH
+0410700259,Castle,1,Plugged,DH,06581,Pacific Exploration Corp.,Any Field,Any Area,Inland,Tulare,MD,17,21S,27E,36.10411835,-119.0722885,hud,N,N,,PluggedDH
+0410700261,Andrews-Prestage,1,Plugged,DH,08595,Tule River Syndicate,Any Field,Any Area,Inland,Tulare,MD,32,21S,27E,36.06077194,-119.0716705,hud,N,N,,PluggedDH
+0410700286,Solar,1,Plugged,DH,B1600,Barnes Core Drilling Co.,Any Field,Any Area,Inland,Tulare,MD,03,22S,27E,36.04788589,-119.0524674,hud,N,N,,PluggedDH
+0410720007,Franken,1,Plugged,DH,03735,H. Wayne Hoylman,Any Field,Any Area,Inland,Tulare,MD,25,20S,26E,36.15452194,-119.108963,hud,N,N,,PluggedDH
+0410720019,Roberts Farms,1-14,Plugged,DH,C5640,Chevron U.S.A. Inc.,Any Field,Any Area,Inland,Tulare,MD,14,21S,26E,36.097332,-119.1368256,hud,N,N,,PluggedDH
+0410720053,D & W,1,Plugged,DH,03735,H. Wayne Hoylman,Any Field,Any Area,Inland,Tulare,MD,25,20S,26E,36.16207504,-119.1098938,hud,N,N,,PluggedDH
+0410720090,Leal,36,Plugged,DH,T0300,Tannehill Oil Company,Any Field,Any Area,Inland,Tulare,MD,28,21S,25E,36.07120132,-119.2803802,hud,N,N,,PluggedDH
+0410720107,Cederquist,55-34,Plugged,DH,T0300,Tannehill Oil Company,Any Field,Any Area,Inland,Tulare,MD,34,20S,25E,36.14473343,-119.2502899,hud,N,N,,PluggedDH
+0410720123,Fernandes,1,Plugged,DH,09134,Western Meridian Oil,Any Field,Any Area,Inland,Tulare,MD,19,21S,26E,36.0815239,-119.1981964,hud,N,N,,PluggedDH
+0410720146,Cornell,1,Plugged,DH,06882,Plyler Oil Operations,Any Field,Any Area,Inland,Tulare,MD,34,21S,27E,36.05207825,-119.04245,hud,N,N,,PluggedDH
+0410720182,Torrez,A-1,Plugged,DH,R0550,Redi Corp.,Any Field,Any Area,Inland,Tulare,MD,16,21S,24E,36.10886002,-119.3832321,hud,N,N,,PluggedDH
+0403100588,Blanchard-Lake,2,Plugged,DH,05187,Lake Oil Co.,Any Field,Any Area,Inland,Kings,MD,22,18S,22E,36.35421371,-119.5814438,hud,N,N,05/17/1951,PluggedDH
+0403100593,Lease by Turner & Goldsberry,1,Plugged,DH,08601,Turner & Goldsberry,Any Field,Any Area,Inland,Kings,MD,08,18S,23E,36.37202835,-119.4934921,hud,N,N,03/01/1922,PluggedDH
+0403120005,Hahesy,36-1,Plugged,DH,09217,Willett Flying Service Inc.,Any Field,Any Area,Inland,Kings,MD,36,19S,22E,36.23707199,-119.536293,hud,N,N,03/25/1967,PluggedDH
+0403120026,KCL Kautz,1,Plugged,DH,A4500,Arco Oil and Gas Co.,Any Field,Any Area,Inland,Kings,MD,14,17S,22E,36.45885086,-119.5638428,hud,N,N,12/15/1967,PluggedDH
+0403100631,Boswell,1,Plugged,DH,C5640,Chevron U.S.A. Inc.,Any Field,Any Area,Inland,Kings,MD,24,21S,21E,36.09352493,-119.6539917,hud,N,N,12/06/1956,PluggedDH
+0403100600,Mills,58-8,Plugged,DH,C5640,Chevron U.S.A. Inc.,Any Field,Any Area,Inland,Kings,MD,08,19S,22E,36.28473663,-119.6086731,hud,N,N,04/30/1952,PluggedDH
+0403100845,Seaboard-Continental,66-2,Plugged,DH,C5640,Chevron U.S.A. Inc.,Any Field,Any Area,Inland,Kings,MD,02,19S,22E,36.30266571,-119.5500794,hud,N,N,10/01/1943,PluggedDH
+0403100576,Souza,14-33,Plugged,DH,C5640,Chevron U.S.A. Inc.,Any Field,Any Area,Inland,Kings,MD,33,17S,22E,36.4092865,-119.5993805,hud,N,N,06/07/1943,PluggedDH
+0401906187,Gravander,1,Plugged,DH,02395,E. G. Erickson,Any Field,Any Area,Inland,Fresno,MD,22,16S,22E,36.52246857,-119.5614243,hud,N,N,09/07/1939,PluggedDH
+0403100839,Trane-Cass,1,Plugged,DH,03206,G. Hamilton Beasley,Any Field,Any Area,Inland,Kings,MD,24,20S,22E,36.16827774,-119.5326767,hud,N,N,12/12/1952,PluggedDH
+0403120162,Salyer,1-16,Plugged,DH,P3875,Freeport-McMoRan Oil & Gas LLC,Any Field,Any Area,Inland,Kings,MD,16,20S,22E,36.18266678,-119.5930099,hud,N,N,05/04/1979,PluggedDH
+0403100213,Drummond-Union,1-5,Plugged,DH,06425,Oilfield Equipment & Supply Co.,Hanford (ABD),Any Area,Inland,Kings,MD,36,18S,22E,36.31870651,-119.5426178,hud,N,N,10/06/1951,PluggedDH
+0403100212,Drummond-Union,3,Plugged,DH,03507,Goshen Syndicate,Hanford (ABD),Any Area,Inland,Kings,MD,36,18S,22E,36.31603622,-119.5383911,hud,N,N,10/06/1951,PluggedDH
