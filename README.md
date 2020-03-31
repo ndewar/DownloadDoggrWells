@@ -7,7 +7,10 @@ Division's well finder web application.
 To use the script, download a results.csv for your area by selecting the wells with a rectangle on the following web app:
 https://maps.conservation.ca.gov/doggr/wellfinder/
 
-Then download the script and update the variables inside it as needed.
+The first two digits must be removed from the API number in the results file for it to match the folder structure in the file server.
+An example results and results trimmed file are included.
+
+Next, download the script and update the variables inside it as needed.
 
 Use of the script would be to execute the following from a terminal:<br/>
 **$ python DownloadDoggrWells.py <br/>**
