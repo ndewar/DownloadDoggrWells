@@ -8,7 +8,7 @@ To use the script, download a results.csv for your area by selecting the wells w
 https://maps.conservation.ca.gov/doggr/wellfinder/
 
 The first two digits must be removed from the API number in the results file for it to match the folder structure in the file server.
-An example results and results trimmed file are included.
+Example results and results trimmed files are included in this repo.
 
 Next, download the script and update the variables inside it as needed.
 
